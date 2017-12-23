@@ -96,3 +96,6 @@ Coding Boot Camp (C) 2016. All Rights Reserved.
 
 var queryURLBase = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" +
   authKey + "&q=";
+
+
+  MONGODB_URI: mongodb://heroku_7g9c2ngf:nms91m10bqr1663gap4kr9havb@ds163796.mlab.com:63796/heroku_7g9c2ngf
